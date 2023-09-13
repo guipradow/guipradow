@@ -1,4 +1,5 @@
 ## Hi there! :wave:
+![views](https://komarev.com/ghpvc/?username=guipradow&color=blueviolet)
 
 ### Welcome to my profile! :muscle: :video_game: 
 
@@ -17,9 +18,6 @@ In my free time I like to play Fortnite and go to the gym (a phonk music starts 
 - Bachelor's degree in Mechanical Engineering;
 - Data Science at Escola DNC.
 
-### 🌐 Get in touch:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gpprado/)
-
 ## 🛠️ Skills:
 [![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -37,10 +35,12 @@ In my free time I like to play Fortnite and go to the gym (a phonk music starts 
 [![mint](https://img.shields.io/badge/Linux%20Mint-gray?logo=linuxmint&logoColor=%2387CF3E)](https://linuxmint.com/)
 [![adobe](https://img.shields.io/badge/Adobe-FF0000.svg?style=flat&logo=Adobe&logoColor=white)](https://www.adobe.com/br/creativecloud.html?gclid=Cj0KCQjwmICoBhDxARIsABXkXlI-gmhpCEJSEw7WU4hmJg8F2dDFspdUTJZkZK37xpn9-w-R1BmhibEaAiS_EALw_wcB&sdid=KQPOM&mv=search&ef_id=Cj0KCQjwmICoBhDxARIsABXkXlI-gmhpCEJSEw7WU4hmJg8F2dDFspdUTJZkZK37xpn9-w-R1BmhibEaAiS_EALw_wcB:G:s&s_kwcid=AL!3085!3!587342195970!e!!g!!pacote%20adobe!11030525510!108197871997&gad=1)
 
+## GitHub Stats:
+![mystats](https://github-readme-stats.vercel.app/api?username=guipradow&show_icons=true&theme=dark#gh-dark-mode-only)
 
-
-
-
+### 🌐 Contact me:
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gpprado/)
+[![whatsapp](https://img.shields.io/badge/Whatsapp-%2325D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5542998642600&text&type=phone_number&app_absent=0)
 
 
 
