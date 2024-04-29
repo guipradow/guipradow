@@ -38,13 +38,12 @@ In my free time I like to play Fortnite and go to the gym. I currently work as a
 ## 📈 GitHub Stats:
 ![mystats](https://github-readme-stats.vercel.app/api?username=guipradow&show_icons=true&theme=cobalt)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guipradow&hide=javascript,css,scss,html&theme=tokyonight)
+
 ### 🌐 Contact me:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gpprado/)
 [![whatsapp](https://img.shields.io/badge/Whatsapp-%2325D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5542998642600&text&type=phone_number&app_absent=0)
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guipradow&hide=javascript,css,scss,html&theme=tokyonight)
-
-
 
 
 
