@@ -34,6 +34,7 @@ In my free time I like to play Fortnite and go to the gym. I currently work as a
 ![linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black)
 [![mint](https://img.shields.io/badge/Linux%20Mint-gray?logo=linuxmint&logoColor=%2387CF3E)](https://linuxmint.com/)
 [![adobe](https://img.shields.io/badge/Adobe-FF0000.svg?style=flat&logo=Adobe&logoColor=white)](https://www.adobe.com/br/creativecloud.html?gclid=Cj0KCQjwmICoBhDxARIsABXkXlI-gmhpCEJSEw7WU4hmJg8F2dDFspdUTJZkZK37xpn9-w-R1BmhibEaAiS_EALw_wcB&sdid=KQPOM&mv=search&ef_id=Cj0KCQjwmICoBhDxARIsABXkXlI-gmhpCEJSEw7WU4hmJg8F2dDFspdUTJZkZK37xpn9-w-R1BmhibEaAiS_EALw_wcB:G:s&s_kwcid=AL!3085!3!587342195970!e!!g!!pacote%20adobe!11030525510!108197871997&gad=1)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 ## 📈 GitHub Stats:
 ![mystats](https://github-readme-stats.vercel.app/api?username=guipradow&show_icons=true&theme=cobalt)
