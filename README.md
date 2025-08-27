@@ -4,19 +4,13 @@
 ### Welcome to my profile! :muscle: :video_game: 
 
 ### 📘 About me:
-My name is Guilherme Prado. I'm a brazilian guy passionate about **Python** and  an aspiring **Data Scientist** . 
-In my free time I like to play Fortnite and go to the gym. I currently work as a Project Engineer, but I'm looking for an opportunity to migrate to the data science field.
-
-### 🎯 My goals:
-- I'm currently working to improve my data science and programming skills;
-- I want to clearly understant linear algebra and statistics with its respectives applications in data science;
-- I want to deploy data science applications and solve problems with it;
-- Start to work as a data scientist;
-- Becoming an data science expert and teaching others.
+My name is Guilherme Prado. I'm a brazilian guy passionate about **Python**, **Data Science** and **Operations Research** . 
+In my free time I like to play Fortnite and go to the gym. I currently work as a Project Analytics Engineer at Klabin SA.
 
 ### 🎓 Education:
 - Bachelor's degree in Mechanical Engineering;
-- Data Science at Escola DNC.
+- Data Science at Escola DNC;
+- Post Graduate Degree in Artificial Intelligence.
 
 ## 🛠️ Skills:
 [![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
