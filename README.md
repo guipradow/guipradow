@@ -10,9 +10,9 @@ I currently work as Industrial Intelligence Engineer at Klabin SA.
 ### 🎓 Education:
 - Bachelor's degree in Mechanical Engineering;
 - Data Science at Escola DNC;
-- Post Graduate Degree in Artificial Intelligence.
-- MBA in Operations Research and Decision Making (in progress)
-- Master Degree in Production and System Engineering (in progress)
+- Post Graduate Degree in Artificial Intelligence;
+- MBA in Operations Research and Decision Making;
+- Master Degree in Production and System Engineering (in progress).
 
 ## 🛠️ Skills:
 [![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
