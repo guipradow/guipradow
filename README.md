@@ -4,8 +4,8 @@
 ### Welcome to my profile! :muscle: :video_game: 
 
 ### 📘 About me:
-My name is Guilherme Prado. I'm a brazilian guy passionate about **Python**, **Data Science** and **Operations Research** . 
-I currently work as Industrial Intelligence Engineer at Klabin SA.
+My name is Guilherme Prado. I'm a brazilian guy passionate about **Python**, **Data Science** and **Operations Research**. 
+I currently work as Data Solution Analyst at Radix.
 
 ### 🎓 Education:
 - Bachelor's degree in Mechanical Engineering;
