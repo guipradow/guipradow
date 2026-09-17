@@ -5,7 +5,7 @@
 
 ### 📘 About me:
 My name is Guilherme Prado. I'm a brazilian guy passionate about **Python**, **Data Science** and **Operations Research**. 
-I currently work as Data Solution Analyst at Radix.
+I currently work as Data Solutions Analyst at Radix.
 
 ### 🎓 Education:
 - Bachelor's degree in Mechanical Engineering;
